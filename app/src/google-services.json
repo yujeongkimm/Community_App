@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665915491094",
+    "project_id": "mysolelife-7c1b6",
+    "storage_bucket": "mysolelife-7c1b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665915491094:android:804f85a35dd09514c70637",
+        "android_client_info": {
+          "package_name": "org.techtown.mysolelife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665915491094-h2fldkvium8qemkch7durd6imt8gigah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLW6ONiiXxRT1oV4yhoeyVZWF6GlISEZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665915491094-h2fldkvium8qemkch7durd6imt8gigah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
